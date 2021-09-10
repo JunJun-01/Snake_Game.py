@@ -1,0 +1,2 @@
+import window-curses
+import random
