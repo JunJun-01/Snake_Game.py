@@ -1,2 +1,3 @@
 import window-curses
-import random
+
+with pip install window-curses in terminal.
