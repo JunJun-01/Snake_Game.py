@@ -1,6 +1,6 @@
 # Snake_Game.py
-Classic Snake Game that can be done under 10 minutes with the help fo import window_curser.
-Functions available in this simple snake game
+Classic Snake Game that can be done under 10 minutes with the help fo import window_curser with python.
+Functions available in this simple snake game:
 - Moving Snake
 - Food available
 - Movements control with key up, down, left, right.
